@@ -1,0 +1,9 @@
+@reference "tailwindcss";
+* {
+    /* @apply p-0 m-0; */
+}
+
+body,
+html {
+    @apply w-dvw h-dvh;
+}
